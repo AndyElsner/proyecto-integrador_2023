@@ -1,0 +1,182 @@
+[
+	{
+		"name": "Araña Robot",
+		"description": "Diseño fantástico con función de pulverización de niebla: la araña puede pulverizar niebla con luz roja cada varios segundos, como si el fuego brotara de la boca. Hay una caja de agua incorporada en la cabeza, y solo necesita usar la botellita de plástico provista para llenar el agua en el orificio.",
+		"price": "25.000",
+		"mainPhoto": "1-arañarobot.jpg",
+		"brand": "Spid Fire",
+		"stock": 10,
+		"id": "1"
+	},
+	{
+		"name": "Blue Jurassic Park",
+		"description": "Con alrededor de 14 puntos de articulación e increíbles detalles auténticos de la película, incluyendo color y textura de la cabeza a los pies (y la cola ), estas figuras están listas para dominar el centro de atención.Construidas a escala de 3.75 pulgadas.Producto importado 100% original sin caja",
+		"price": "18.000",
+		"mainPhoto": "2-blue-jurassic-park.jpj.jpg",
+		"brand": "Mattel",
+		"stock": 25,
+		"id": "2"
+	},
+	{
+		"name": "Cubo-Laberinto",
+		"description": "CUBO LABERINTO MÁGICO 3D 6 CARAS / 6 NIVELES DE DIFICULTAD 720° 45mm. Es un juguete didáctico y de ingenio para practicar la agilidad mental, memoria y mejorar habilidades de manos. Una prueba de paciencia, perseverancia y coordinación mano-ojo. Se trata de hacer un recorrido continuo a través del laberinto de seis lados dentro del hueco.",
+		"price": "5.000",
+		"mainPhoto": "3-cubolaberinto.jpg",
+		"brand": "Rubik's",
+		"stock": 33,
+		"id": "3"
+	},
+	{
+		"name": "Disfraz Spiderman",
+		"description": "Disfraz Spiderman ORIGINAL Marvel con Licencia de NewToy's. Acompaña a Spiderman a una nueva aventura con el disfraz spiderman! El disfraz incluye mono y capucha estampados. Viene en 3 talles (ver tabla con medidas).",
+		"price": "32.000",
+		"mainPhoto": "4-disfraz-spiderman.jpg",
+		"brand": "NewToy's",
+		"stock": 28,
+		"id": "4"
+	},
+	{
+		"name": "Funko Hisoka",
+		"description": "Personaje Hisoka. Número de la figura de acción: 652. Altura: 16 cm. Profundidad: 12 cm. Ancho: 10 cm. Materiales: Vinilo",
+		"price": "9.500",
+		"mainPhoto": "5-funkohisoka.jpg",
+		"brand": "Funko",
+		"stock": 26,
+		"id": "5"
+	},
+	{
+		"name": "Funko Killua",
+		"description": "Personaje Kilua. Número de la figura de acción: 1156. Altura: 16 cm. Profundidad: 12 cm. Ancho: 10 cm. Materiales: Vinilo",
+		"price": "9.500",
+		"mainPhoto": "6-funkokillua.jpg",
+		"brand": "Funko",
+		"stock": 30,
+		"id": "6"
+	},
+	{
+		"name": "Funko Todoroki",
+		"description": "Personaje Todoroki. Número de la figura de acción: 372. Altura: 16 cm. Profundidad: 12 cm. Ancho: 10 cm. Materiales: Vinilo",
+		"price": "9.500",
+		"mainPhoto": "7-funkotodoroki.jpg",
+		"brand": "Funko",
+		"stock": 15,
+		"id": "7"
+	},
+	{
+		"name": "Hawk",
+		"description": "Impresionante Estatua de Boku No Hero Academy original de Banpresto. inspirada en el famoso anime. De unos 17 cms de alto aproximadamente (incluyendo la Base), excelentes detalles y nivel de construcción increible, estatua fija, con base. La misma incluye su caja de origen. Ideal para fanáticos y coleccionistas, para regalar o regalarse, una pieza única que no podes dejar de tener",
+		"price": "25.000",
+		"mainPhoto": "8-hawk.jpg",
+		"brand": "Banpresto",
+		"stock": 25,
+		"id": "8"
+	},
+	{
+		"name": "Indominus Rex - Jurassic Park",
+		"description": "Inspirado en Jurassic World, este tamaño más grande (aprox. 8 pulgadas de alto y 23 pulgadas de largo), Destroy 'N Devour Indominus Rex cuenta con escamas blancas fantasmas, dientes viciosos y antebrazos largos como daga. Pulsa el botón en la parte posterior para activar el movimiento del brazo y efectos de sonido realistas. Pulsa el botón epara activar el corte de la mandíbula y sonidos rugidos.",
+		"price": "33.250",
+		"mainPhoto": "9-indominusrex.jpg",
+		"brand": "Mattel",
+		"stock": 22,
+		"id": "9"
+	},
+	{
+		"name": "Jenga de Disney",
+		"description": "Classic Jenga jugar con un toque fresco Disney Frozen. Incluye figura de Elsa. Niños puede jugar solo o en un grupo. Los jugadores construir castillos de Elsa. Incluye marco de Palacio de hielo, Ice Palace, balcón, 23 Jenga bloques de hielo, Elsa figure, varita copo de nieve, Die, tarjeta de configuración, y guía de juego.",
+		"price": "7.800",
+		"mainPhoto": "10-jenga-disney.jpg",
+		"brand": "Hasbro",
+		"stock": 30,
+		"id": "10"
+	},
+		{
+		"name": "Break Out",
+		"description": "Juego de escape. Cantidad máxima de jugadores: 2",
+		"price": "7.000",
+		"mainPhoto": "11-juegobreajout.jpg",
+		"brand": "Ditoys",
+		"stock": 23,
+		"id": "11"
+	},
+		{
+		"name": "Cocodrilos",
+		"description": "Componentes del juego: 1 base, 4 cocodrilos, 20 pelotitas de colores. ¿Qué mejor plan para una tarde de lluvia que un juego de mesa? Con el Cocodrilos vas a crear divertidos recuerdos y pasar momentos inolvidables junto a tus amigos y amigas. Con este pasatiempo entretenido las risas están aseguradas. Cantidad mínima de jugadores - Cantidad máxima de jugadores: 2 - 2",
+		"price": "10.000",
+		"mainPhoto": "12-juegococodrilos.jpg",
+		"brand": "Antex",
+		"stock": 10,
+		"id": "12"
+	},
+		{
+		"name": "Kit de Magia",
+		"description": "SET DE 8 JUEGOS DE INGENIO, JUEGOS DESAFÍO, JUGUETES ANTIESTRÉS, ROMPECABEZAS, JUGUETES EDUCATIVOS PARA PARA NIÑOS, ADOLESCENTES Y ADULTOS, JUGUETES DE ESCRITORIO PARA OFICINA Y ESTUDIANTES, ADECUADO PARA PRUEBAS DE LÓGICA, ENTRENAMIENTO IQ, ANSIEDAD Y PASATIEMPO. REGALOS PARA NIÑOS Y ADULTOS, ESTUCHE PARA REGALAR",
+		"price": "14.000",
+		"mainPhoto": "13-juegodemagia.jpg",
+		"brand": "Dada Cubes",
+		"stock": 12,
+		"id": "13"
+	},
+		{
+		"name": "Oso Polo",
+		"description": "Para aprender y disfrutar jugando! El juego Oso Polo está pensado para desarrollar habilidades y potenciar las capacidades cognitivas y creativas de las y los niños. Ejercitarán el pensamiento y la concentración, a la vez que se divierten con este método de aprendizaje lúdico y relajado. Cantidad mínima de jugadores - Cantidad máxima de jugadores: 2 - 4",
+		"price": "12.000",
+		"mainPhoto": "14-juegoosopolo.jpg",
+		"brand": "Antex",
+		"stock": 15,
+		"id": "14"
+	},
+		{
+		"name": "Clue",
+		"description": "El clásico juego de misterio!!! Registrá la mansión para encontrar pistas, haz preguntas astutas con las de un detective y no dejes ninguna carta sin voltear. El primero en resolver el crimen gana! Incluye versión para dos jugadores! Jugadores: 2 a 6",
+		"price": "18.000",
+		"mainPhoto": "15-juegoclue.jpg",
+		"brand": "Mattel",
+		"stock": 18,
+		"id": "15"
+	},
+		{
+		"name": "T.E.G.",
+		"description": "Componentes del juego: 1 tablero, 6 cajas de colores con 100 fichas cada una, 50 tarjetas de países, 15 tarjetas de objetivos, 6 dados, 1 reglamento. Cantidad mínima de jugadores - Cantidad máxima de jugadores: 2 - 6",
+		"price": "20.000",
+		"mainPhoto": "16-juegoTeg.jpg",
+		"brand": "BYETEM",
+		"stock": 30,
+		"id": "16"
+	},
+		{
+		"name": "Vamos a Pescar",
+		"description": "¿Qué mejor plan para una tarde de lluvia que un juego de mesa? Con el Vamos a Pescar pescamagic vas a crear divertidos recuerdos y pasar momentos inolvidables junto a tus amigos y amigas. Con este pasatiempo entretenido las risas están aseguradas.",
+		"price": "22.000",
+		"mainPhoto": "17-juego-vamos-a-pescar.jpg",
+		"brand": "Mattel",
+		"stock": 22,
+		"id": "17"
+	},
+		{
+		"name": "Manta de Peluche",
+		"description": "anta grande con capucha de animal ponible. Estas mantas son muy suaves, cálidas, acogedoras y divertidas para jugar. Envuelve a un niño en su personaje favorito. Nuestras mantas están hechas de materiales polares supersuaves y te mantendrán abrigado y acogedor en el sofá, en la cama, en la playa, junto a la piscina o al aire libre. Cada manta tiene bolsillos en las esquinas para poner en tus manos. Bolsillos para las manos con detalles de animales",
+		"price": "11.000",
+		"mainPhoto": "18-mantapeluche.jpg",
+		"brand": "Wabro",
+		"stock": 15,
+		"id": "18"
+	},
+		{
+		"name": "Monopoly",
+		"description": "Componentes del juego: Tablero, 8 fichas, 28 títulos de propiedad, 16 cartas de fortuna, 16 cartas de arca comunal, 32 casas, 12 hoteles, 2 dados, Paquete de dinero, Reglamento. Cantidad mínima de jugadores - Cantidad máxima de jugadores: 2 - 6. Es un juego de cartas: No. Materiales de los componentes: Plástico, Metal, Papel",
+		"price": "25.000",
+		"mainPhoto": "19-monopoly.jpg",
+		"brand": "Hasbro",
+		"stock": 12,
+		"id": "19"
+	},
+		{
+		"name": "Muñeca de Tela",
+		"description": "Materiales: Tela. Ancho: 17 cm. Altura: 33.5 cm",
+		"price": "15.000",
+		"mainPhoto": "20-muñecadetela.jpg",
+		"brand": "Kukibet",
+		"stock": 18,
+		"id": "20"
+	}
+]
